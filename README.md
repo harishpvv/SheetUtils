@@ -265,8 +265,9 @@ function demo() {
 ## 🧩 License
 
 This utility is open-source and free to use in any Google Apps Script
-project.\
-You're welcome to extend it with: - sorting functions\
-- range copy/move utilities\
-- formula-based column support\
+project.
+You're welcome to extend it with:
+- sorting functions
+- range copy/move utilities
+- formula-based column support
 - event-trigger helpers
